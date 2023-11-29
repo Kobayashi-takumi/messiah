@@ -3,6 +3,7 @@ OZOの出勤・退勤を行うツール
 みんなのメシア
 
 # 環境設定
+- chromedriverをインストールする
 - git clone [url]
 - make build-[OS]
 - mv <ビルド物のパス。./target以下にビルド物ができる> <コマンドのパスが通っているディレクトリ。Macなら/usr/local/bin>
